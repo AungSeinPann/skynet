@@ -1,0 +1,963 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", [F1] SKY SPORTS F1 4K (UK)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/133537
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", [F1] SKY SPORTS F1 FHD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/133546
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", [F1] SKY SPORTS F1 HD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/133541
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", [F1] SKY SPORTS F1 HD (UK)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/133543
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", [F1] SKY SPORTS F1 HEVC (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/133540
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", [F1] SKY SPORTS F1 RAW (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/133547
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", DE: SKY SPORT GOLF ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211686
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", DE: SKY SPORT GOLF HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211685
+
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY ARTE FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61579
+
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY ARTE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148687
+
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 1 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61459
+
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 1 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61460
+
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 2 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61461
+
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 2 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61462
+
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 3 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61463
+
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 3 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61464
+
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 4 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61465
+
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 4 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61466
+
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 5 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61467
+
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CALCIO 5 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61468
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA ACTION FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61536
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA ACTION HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148677
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA ATLANTIC FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61526
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA ATLANTIC HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148686
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA COLLECTION FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61535
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA COLLECTION HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148679
+
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA COMEDY FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61537
+
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA COMEDY HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148678
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA DRAMA FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61534
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA DRAMA HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148680
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA DUE FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61531
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA DUE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148681
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA FAMILY FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61539
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA FAMILY HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148675
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA ROMANCE FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61533
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA ROMANCE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148683
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA SUSPENSE FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61538
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA SUSPENSE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148684
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA UNO 4K
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148685
+
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA UNO FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61529
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY CINEMA+ 24 DUE FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148682
+
+#EXTINF:-1 tvg-id="SKYSport24.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT 24 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61447
+
+#EXTINF:-1 tvg-id="SKYSport24.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT 24 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61448
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT AEW / WWE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148488
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT ARENA FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61457
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT ARENA HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61469
+
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT F1 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61453
+
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT F1 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61454
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT FOOTBALL FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61445
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT FOOTBALL HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61446
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT MOTO GP FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61455
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT MOTO GP HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61456
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT NBA FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148486
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT NBA HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148487
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT SERIE A FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61443
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT SERIE A HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61444
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT UNO FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61449
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY SPORT UNO HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61450
+
+#EXTINF:-1 tvg-id="TG24.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", IT: SKY TG 24 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/61544
+
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ARTS HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26748
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ATLANTIC ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2837
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ATLANTIC ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2836
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ATLANTIC ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1213
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ATLANTIC ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1214
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ATLANTIC HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26747
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 1 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211580
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211579
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211576
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 1 ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211578
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 2 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211583
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 2 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211582
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 2 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211581
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 3 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211587
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 3 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211586
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 3 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211585
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 4 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211664
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 4 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211663
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 4 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211589
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 5 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211689
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 5 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211688
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 5 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211687
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 6 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211692
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 6 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211691
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 6 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211690
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 7 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211695
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 7 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211694
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY AUSTRIA 7 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211693
+
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 1 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26212
+
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26211
+
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11187
+
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 10 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26233
+
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 10 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11204
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 10 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26232
+
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 2 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26216
+
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 2 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11188
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 2 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26213
+
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 3 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26219
+
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 3 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11191
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 3 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26217
+
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 4 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26221
+
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 4 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11193
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 4 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26220
+
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 5 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26223
+
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 5 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11195
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 5 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26222
+
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 6 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26225
+
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 6 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11197
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 6 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26224
+
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 7 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11199
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 7 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26226
+
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 7 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26227
+
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 8 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26229
+
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 8 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11201
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 8 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26228
+
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 9 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26231
+
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 9 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11203
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA 9 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26230
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY BUNDESLIGA UHD ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11185
+
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA ACTION  HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26907
+
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA ACTION ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2799
+
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA ACTION ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2798
+
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA ACTION ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1215
+
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA ACTION ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1216
+
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA BEST OF ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2801
+
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA BEST OF ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2800
+
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA BEST OF ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1217
+
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA BEST OF ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1218
+
+#EXTINF:-1 tvg-id="SkyCinemaClassic.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA CLASSIC ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2818
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA COMEDY ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2817
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sky Cinema Comedy HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26908
+
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA DRAMA HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26909
+
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FAMILY ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2813
+
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FAMILY ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2812
+
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FAMILY ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1219
+
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FAMILY ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1220
+
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FAMILY HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26910
+
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FUN
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2815
+
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA FUN ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2814
+
+#EXTINF:-1 tvg-id="SkyBrits.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA GREATS HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26912
+
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA HITS HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26911
+
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIERE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26913
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN 24 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2807
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN 24 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2806
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN 24 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1223
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN 24 ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1224
+
+#EXTINF:-1 tvg-id="SkyPremieren.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2805
+
+#EXTINF:-1 tvg-id="SkyPremieren.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2804
+
+#EXTINF:-1 tvg-id="SkyPremieren.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1221
+
+#EXTINF:-1 tvg-id="SkyPremieren.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA PREMIEREN ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1222
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA SCI-FI HORROR HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26914
+
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA SPECIAL ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2811
+
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA SPECIAL ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2810
+
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA SPECIAL ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1225
+
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA SPECIAL ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1226
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA THRILLER ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2809
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA THRILLER ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2808
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA THRILLER ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1227
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA THRILLER ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1228
+
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CINEMA THRILLER HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26915
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY COMEDY ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2797
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY COMEDY ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2796
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY COMEDY ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1207
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY COMEDY ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1208
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CRIME ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2795
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CRIME ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2794
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CRIME ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1211
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY CRIME ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1212
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY DOCUMENTARIES ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/36354
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY DOCUMENTARIES ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/36353
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY DOCUMENTARIES ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1174
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sky investigation 4K
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/222898
+
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sky Investigation FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/222899
+
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY KRIMI ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2792
+
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY KRIMI ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2793
+
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY KRIMI ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1209
+
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY KRIMI ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1210
+
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY LIVING HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26746
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY NATURE ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/36351
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY NATURE ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1173
+
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY NATURE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/36352
+
+#EXTINF:-1 tvg-id="Skynews.gr" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY NEWS
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26933
+
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ONE ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2839
+
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ONE ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2838
+
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ONE ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1205
+
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY ONE ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1206
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 1 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2845
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 10 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2854
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 11 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2855
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 12 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2856
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 13 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2857
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 14 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2858
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 15 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2859
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 2 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2846
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 3 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2847
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 4 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2848
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 5 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2849
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 6 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2850
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 7 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2851
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 8 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2852
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SELECT PREMIERE 9 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/2853
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SERIEN & SHOWS ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1229
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SERIEN & SHOWS ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/1230
+
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SHOWCASE ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/192064
+
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SHOWCASE ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/192065
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SHOWCASE TV
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26927
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 1 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11132
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11131
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11129
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 1 ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11130
+
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 1 FHD  (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55261
+
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 10 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/117659
+
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 10 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11150
+
+#EXTINF:-1 tvg-id="SkySport11.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 11 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/117660
+
+#EXTINF:-1 tvg-id="SkySport11.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 11 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11151
+
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 2 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11136
+
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 2 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11135
+
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 2 ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11134
+
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 2 ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11133
+
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 2 FHD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55262
+
+#EXTINF:-1 tvg-id="SkySpAction.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 3 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11138
+
+#EXTINF:-1 tvg-id="SkySpAction.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 3 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11137
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 3 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/190574
+
+#EXTINF:-1 tvg-id="SkySports4.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 4 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11140
+
+#EXTINF:-1 tvg-id="SkySports4.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 4 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11139
+
+#EXTINF:-1 tvg-id="SkySports5.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 5 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11142
+
+#EXTINF:-1 tvg-id="SkySports5.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 5 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11141
+
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 6 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11144
+
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 6 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11143
+
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 7 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11146
+
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 7 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11145
+
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 8 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/117658
+
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 8 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11147
+
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 9 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11149
+
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT 9 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11148
+
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 1 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11163
+
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 1 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11164
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 1 HEVC
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11162
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 1 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148755
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 2 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11165
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 2 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11166
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 2 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148756
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 3 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11167
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 3 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11168
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 3 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148757
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 4 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11169
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 4 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11170
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 4 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148758
+
+#EXTINF:-1 tvg-id="SkySportAustria5.at" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 5 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11171
+
+#EXTINF:-1 tvg-id="SkySportAustria5.at" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 5 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11172
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 5 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148759
+
+#EXTINF:-1 tvg-id="SkySportAustria6.at" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 6 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11173
+
+#EXTINF:-1 tvg-id="SkySportAustria6.at" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 6 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11174
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 6 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148760
+
+#EXTINF:-1 tvg-id="SkySportAustria7.at" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 7 FHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11175
+
+#EXTINF:-1 tvg-id="SkySportAustria7.at" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 7 HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11176
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT AUSTRIA 7 RAW
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/148761
+
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184151
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 1 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184152
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 1 FEED
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11184
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 1 FHD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55264
+
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 10 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184168
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 10 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184169
+
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 2 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184153
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 2 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184170
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 2 HD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55265
+
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 3 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184154
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 3 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184155
+
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 4 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184156
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 4 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184157
+
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 5 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184158
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 5 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184159
+
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 6 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184160
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 6 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184161
+
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 7 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184162
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 7 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184163
+
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 8 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184164
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 8 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184165
+
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 9 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184166
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA 9 ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184167
+
+#EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184149
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT BUNDESLIGA ??? ?????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184150
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT F1
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26984
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT F1 ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11124
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT F1 ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11123
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT F1 ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11122
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT F1 FHD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55539
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT F1 UHD ITALY
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/212937
+
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT GOLF ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184147
+
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT GOLF ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184148
+
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT MIX ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184146
+
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT MIX ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184145
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT NEWS ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11127
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT NEWS ???
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11126
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT NEWS ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/11125
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT NEWS FHD (DE)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55263
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT PREMIER LEAGUE ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184144
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT PREMIER LEAGUE ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184143
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT TENNIS ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184142
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT TENNIS ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184141
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT TOP EVENT ??
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184139
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORT TOP EVENT ????
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/184138
+
+#EXTINF:-1 tvg-id="SkySpAction.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS ACTION HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26981
+
+#EXTINF:-1 tvg-id="SkySpArena.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS ARENA HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26982
+
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS CRICKET HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26983
+
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS FOOTBALL HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26979
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS FOOTBALL HD (UK)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55316
+
+#EXTINF:-1 tvg-id="SkySpTheOpen.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS GOLF HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26985
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS MAIN EVENT HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26978
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS MIX FHD (UK)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55315
+
+#EXTINF:-1 tvg-id="SkySpMix.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS MIX HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26980
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS NEWS  FHD (UK)
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/55317
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS NEWS HQ
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26976
+
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY SPORTS PREMIER LEAGUE HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26977
+
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY TWO HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26745
+
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", SKY WITNESS HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/26749
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", SkyInvestigationHD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/222900
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", UK: SKY ACTION / NFL HEVC
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211447
+
+#EXTINF:-1 tvg-id="SkySpTheOpen.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", UK: SKY SPORTS GOLF HD
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211444
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", UK: SKY SPORTS GOLF HEVC
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/211445
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="noimage.png" group-title="GSE NO GROUP", UK: SKY SPORTS MAIN EVENT
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/204401
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="GSE NO GROUP", UK: SKY SPORTS NFL HEVC
+http://x01.live:8080/Bm3HasGAsqQU/YRCua7Aqa6xz/208190
